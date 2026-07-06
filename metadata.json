@@ -1,0 +1,6 @@
+{
+  "name": "HelloTalk File Sharing",
+  "description": "A high-fidelity interactive demo of the HelloTalk File Upload, Sharing, Favorites and Notepad features, styled exactly like HelloTalk's native iOS/Android interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
